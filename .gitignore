@@ -1,0 +1,16 @@
+Debug/
+Release/
+MainDialog.cpp.rej
+StereoCamera.aps
+StereoCamera.opensdf
+StereoCamera.sdf
+StereoCamera.sln
+StereoCamera.v12.suo
+ipch/stereocamera-44cafaa5/stereocamera-606fa2e7.ipch
+ipch/stereocamera-44cafaa5/stereocamera-ce84b21.ipch
+real_pointsNew.txt
+validPoint.txt
+ipch/
+StereoCamera.vcxproj
+UART/UART_ProtocolDeal2.lib
+.gitattributes

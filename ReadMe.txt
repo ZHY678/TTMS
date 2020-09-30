@@ -1,0 +1,15 @@
+﻿配置文件：
+config.ini:
+[SensorData]
+Lvalue=0.000000
+trackDis=65665.000000
+battery=0
+version=0
+[COM]
+com_port=3
+com_setting=115200,n,8,1
+[camera]
+up_camera=1
+down_camera=2
+width=2560
+height=720
